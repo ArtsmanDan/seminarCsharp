@@ -1,0 +1,15 @@
+D:\project\Csharp\seminar\seminar2csharp\Task-2\bin\Debug\net6.0\Task-2.exe
+D:\project\Csharp\seminar\seminar2csharp\Task-2\bin\Debug\net6.0\Task-2.deps.json
+D:\project\Csharp\seminar\seminar2csharp\Task-2\bin\Debug\net6.0\Task-2.runtimeconfig.json
+D:\project\Csharp\seminar\seminar2csharp\Task-2\bin\Debug\net6.0\Task-2.dll
+D:\project\Csharp\seminar\seminar2csharp\Task-2\bin\Debug\net6.0\Task-2.pdb
+D:\project\Csharp\seminar\seminar2csharp\Task-2\obj\Debug\net6.0\Task-2.csproj.AssemblyReference.cache
+D:\project\Csharp\seminar\seminar2csharp\Task-2\obj\Debug\net6.0\Task-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Csharp\seminar\seminar2csharp\Task-2\obj\Debug\net6.0\Task-2.AssemblyInfoInputs.cache
+D:\project\Csharp\seminar\seminar2csharp\Task-2\obj\Debug\net6.0\Task-2.AssemblyInfo.cs
+D:\project\Csharp\seminar\seminar2csharp\Task-2\obj\Debug\net6.0\Task-2.csproj.CoreCompileInputs.cache
+D:\project\Csharp\seminar\seminar2csharp\Task-2\obj\Debug\net6.0\Task-2.dll
+D:\project\Csharp\seminar\seminar2csharp\Task-2\obj\Debug\net6.0\refint\Task-2.dll
+D:\project\Csharp\seminar\seminar2csharp\Task-2\obj\Debug\net6.0\Task-2.pdb
+D:\project\Csharp\seminar\seminar2csharp\Task-2\obj\Debug\net6.0\Task-2.genruntimeconfig.cache
+D:\project\Csharp\seminar\seminar2csharp\Task-2\obj\Debug\net6.0\ref\Task-2.dll
