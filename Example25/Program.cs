@@ -6,3 +6,18 @@
 
 */
 
+Console.WriteLine("Введите первое целое число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Введите второе целое число: ");
+int b = Convert.ToInt32(Console.ReadLine());
+int i = 1;
+int count = a;
+while (i<b)
+{
+    count =   count * a;
+    i++;
+
+
+}
+    Console.WriteLine($"A в степени B равно: {count}" );
