@@ -6,14 +6,22 @@
 82 -> 10
 
 9012 -> 12
-*/
 
-System.Console.WriteLine("Please input integer number: ");
-int summ = ConvertToInt32(Console.ReadLine());
-int i[0];
-int length = summ;
-while (lengt < 9);
+*/
+System.Console.WriteLine("Input integer number: ");
+int number  = Convert.ToInt32(Console.ReadLine());
+
+System.Console.WriteLine($"{number} -> {sum(number)}");
+
+int sum(int number)
 {
-summ = i + 1
+    int result = 0;
+    while(number > 0)
+    {
+        result = result + number % 10;
+
+        number = number /10;
+    }
+
+    return result;
 }
-System.Console.WriteLine(summ);
