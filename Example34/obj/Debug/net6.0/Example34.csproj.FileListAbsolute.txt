@@ -1,0 +1,15 @@
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\bin\Debug\net6.0\Example34.exe
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\bin\Debug\net6.0\Example34.deps.json
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\bin\Debug\net6.0\Example34.runtimeconfig.json
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\bin\Debug\net6.0\Example34.dll
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\bin\Debug\net6.0\Example34.pdb
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\obj\Debug\net6.0\Example34.csproj.AssemblyReference.cache
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\obj\Debug\net6.0\Example34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\obj\Debug\net6.0\Example34.AssemblyInfoInputs.cache
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\obj\Debug\net6.0\Example34.AssemblyInfo.cs
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\obj\Debug\net6.0\Example34.csproj.CoreCompileInputs.cache
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\obj\Debug\net6.0\Example34.dll
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\obj\Debug\net6.0\refint\Example34.dll
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\obj\Debug\net6.0\Example34.pdb
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\obj\Debug\net6.0\Example34.genruntimeconfig.cache
+C:\Users\АПГ\Downloads\win64_154516.4627\Example\seminarCsharp-1\Example34\obj\Debug\net6.0\ref\Example34.dll
