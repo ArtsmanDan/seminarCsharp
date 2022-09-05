@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\АПГ\\Downloads\\win64_154516.4627\\Example\\seminarCsharp-1\\Example34\\Example34.csproj": {}
+    "F:\\Examples\\seminarCsharp\\Example34\\Example34.csproj": {}
   },
   "projects": {
-    "C:\\Users\\АПГ\\Downloads\\win64_154516.4627\\Example\\seminarCsharp-1\\Example34\\Example34.csproj": {
+    "F:\\Examples\\seminarCsharp\\Example34\\Example34.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\АПГ\\Downloads\\win64_154516.4627\\Example\\seminarCsharp-1\\Example34\\Example34.csproj",
+        "projectUniqueName": "F:\\Examples\\seminarCsharp\\Example34\\Example34.csproj",
         "projectName": "Example34",
-        "projectPath": "C:\\Users\\АПГ\\Downloads\\win64_154516.4627\\Example\\seminarCsharp-1\\Example34\\Example34.csproj",
-        "packagesPath": "C:\\Users\\АПГ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\АПГ\\Downloads\\win64_154516.4627\\Example\\seminarCsharp-1\\Example34\\obj\\",
+        "projectPath": "F:\\Examples\\seminarCsharp\\Example34\\Example34.csproj",
+        "packagesPath": "C:\\Users\\vatol\\.nuget\\packages\\",
+        "outputPath": "F:\\Examples\\seminarCsharp\\Example34\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\АПГ\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vatol\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
