@@ -1,0 +1,15 @@
+F:\Examples\seminarCsharp\_Lection\Example13\bin\Debug\net6.0\Example13.exe
+F:\Examples\seminarCsharp\_Lection\Example13\bin\Debug\net6.0\Example13.deps.json
+F:\Examples\seminarCsharp\_Lection\Example13\bin\Debug\net6.0\Example13.runtimeconfig.json
+F:\Examples\seminarCsharp\_Lection\Example13\bin\Debug\net6.0\Example13.dll
+F:\Examples\seminarCsharp\_Lection\Example13\bin\Debug\net6.0\Example13.pdb
+F:\Examples\seminarCsharp\_Lection\Example13\obj\Debug\net6.0\Example13.csproj.AssemblyReference.cache
+F:\Examples\seminarCsharp\_Lection\Example13\obj\Debug\net6.0\Example13.GeneratedMSBuildEditorConfig.editorconfig
+F:\Examples\seminarCsharp\_Lection\Example13\obj\Debug\net6.0\Example13.AssemblyInfoInputs.cache
+F:\Examples\seminarCsharp\_Lection\Example13\obj\Debug\net6.0\Example13.AssemblyInfo.cs
+F:\Examples\seminarCsharp\_Lection\Example13\obj\Debug\net6.0\Example13.csproj.CoreCompileInputs.cache
+F:\Examples\seminarCsharp\_Lection\Example13\obj\Debug\net6.0\Example13.dll
+F:\Examples\seminarCsharp\_Lection\Example13\obj\Debug\net6.0\refint\Example13.dll
+F:\Examples\seminarCsharp\_Lection\Example13\obj\Debug\net6.0\Example13.pdb
+F:\Examples\seminarCsharp\_Lection\Example13\obj\Debug\net6.0\Example13.genruntimeconfig.cache
+F:\Examples\seminarCsharp\_Lection\Example13\obj\Debug\net6.0\ref\Example13.dll
