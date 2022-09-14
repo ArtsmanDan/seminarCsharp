@@ -1,0 +1,15 @@
+D:\project\Csharp\seminarCsharp\Example43\bin\Debug\net6.0\Example43.exe
+D:\project\Csharp\seminarCsharp\Example43\bin\Debug\net6.0\Example43.deps.json
+D:\project\Csharp\seminarCsharp\Example43\bin\Debug\net6.0\Example43.runtimeconfig.json
+D:\project\Csharp\seminarCsharp\Example43\bin\Debug\net6.0\Example43.dll
+D:\project\Csharp\seminarCsharp\Example43\bin\Debug\net6.0\Example43.pdb
+D:\project\Csharp\seminarCsharp\Example43\obj\Debug\net6.0\Example43.csproj.AssemblyReference.cache
+D:\project\Csharp\seminarCsharp\Example43\obj\Debug\net6.0\Example43.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Csharp\seminarCsharp\Example43\obj\Debug\net6.0\Example43.AssemblyInfoInputs.cache
+D:\project\Csharp\seminarCsharp\Example43\obj\Debug\net6.0\Example43.AssemblyInfo.cs
+D:\project\Csharp\seminarCsharp\Example43\obj\Debug\net6.0\Example43.csproj.CoreCompileInputs.cache
+D:\project\Csharp\seminarCsharp\Example43\obj\Debug\net6.0\Example43.dll
+D:\project\Csharp\seminarCsharp\Example43\obj\Debug\net6.0\refint\Example43.dll
+D:\project\Csharp\seminarCsharp\Example43\obj\Debug\net6.0\Example43.pdb
+D:\project\Csharp\seminarCsharp\Example43\obj\Debug\net6.0\Example43.genruntimeconfig.cache
+D:\project\Csharp\seminarCsharp\Example43\obj\Debug\net6.0\ref\Example43.dll
