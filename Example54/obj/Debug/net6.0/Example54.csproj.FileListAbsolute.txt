@@ -1,0 +1,15 @@
+D:\project\Csharp\seminarCsharp-1\Example54\obj\Debug\net6.0\Example54.csproj.AssemblyReference.cache
+D:\project\Csharp\seminarCsharp-1\Example54\obj\Debug\net6.0\Example54.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Csharp\seminarCsharp-1\Example54\obj\Debug\net6.0\Example54.AssemblyInfoInputs.cache
+D:\project\Csharp\seminarCsharp-1\Example54\obj\Debug\net6.0\Example54.AssemblyInfo.cs
+D:\project\Csharp\seminarCsharp-1\Example54\obj\Debug\net6.0\Example54.csproj.CoreCompileInputs.cache
+D:\project\Csharp\seminarCsharp-1\Example54\bin\Debug\net6.0\Example54.exe
+D:\project\Csharp\seminarCsharp-1\Example54\bin\Debug\net6.0\Example54.deps.json
+D:\project\Csharp\seminarCsharp-1\Example54\bin\Debug\net6.0\Example54.runtimeconfig.json
+D:\project\Csharp\seminarCsharp-1\Example54\bin\Debug\net6.0\Example54.dll
+D:\project\Csharp\seminarCsharp-1\Example54\bin\Debug\net6.0\Example54.pdb
+D:\project\Csharp\seminarCsharp-1\Example54\obj\Debug\net6.0\Example54.dll
+D:\project\Csharp\seminarCsharp-1\Example54\obj\Debug\net6.0\refint\Example54.dll
+D:\project\Csharp\seminarCsharp-1\Example54\obj\Debug\net6.0\Example54.pdb
+D:\project\Csharp\seminarCsharp-1\Example54\obj\Debug\net6.0\Example54.genruntimeconfig.cache
+D:\project\Csharp\seminarCsharp-1\Example54\obj\Debug\net6.0\ref\Example54.dll
